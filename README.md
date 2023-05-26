@@ -10,7 +10,7 @@
  - To create bold text you surround the item with two asterisk marks without a space before and after.
  - To create italic text in the same manner only using one asterisk mark.
 
- ### What are three symbols you can use for an unordered list with Markdown? ###
+  What are three symbols you can use for an unordered list with Markdown?
  
   - asterisk
   - minus sign
